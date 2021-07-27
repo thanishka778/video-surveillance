@@ -1,0 +1,40 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-variant: small-caps;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+canvas{
+    border: 5px black solid;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 160px;
+}
+
+.head_div{
+    width: 100%;
+}
+
+.start{
+    width: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+ #input{
+     width: 30%;
+     color: black;
+ }
